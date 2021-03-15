@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    width:80%;
+    border:20px solid red;
+    font-family:'source sans pro',sans-serif;
+        padding:20px;
+        margin:0 auto;
+        max-width:700px;
+}
+
+
+table{
+    border:1px solid red;
+    }
+    td{
+    border:1px solid black;
+    }
